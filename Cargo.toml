@@ -3,6 +3,7 @@ name = "runes"
 version = "0.1.0"
 authors = ["Andrew <andrew@canonic.xyz>"]
 repository = "https://github.com/symbolsai/runes"
+description = "A collection of helpers for the Bitcoin rune protocol, targeting NodeJS."
 edition = "2018"
 
 [lib]
