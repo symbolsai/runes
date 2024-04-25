@@ -1,10 +1,11 @@
 [package]
 name = "runes"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Andrew <andrew@canonic.xyz>"]
 repository = "https://github.com/symbolsai/runes"
 description = "A collection of helpers for the Bitcoin rune protocol, targeting NodeJS."
 edition = "2018"
+keywords = ["bitcoin", "runes", "nodejs", "wasm", "webassembly", "ordinals"]
 
 [lib]
 crate-type = ["cdylib", "rlib"]
