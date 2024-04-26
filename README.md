@@ -1,6 +1,8 @@
 This NodeJS package is a small collection of helpers written on top of the [ordinals Rust crate](https://docs.rs/ordinals/latest/ordinals/index.html) that allows you to do basic parsing and validating of raw transactions.
 
-### Requirements for building
+### Building locally
+
+If you want to build this project locally and generate the JS/WASM yourself you'll need to make sure a few things are setup:
 
 - [Rust](https://www.rust-lang.org/tools/install)
 - clang:
