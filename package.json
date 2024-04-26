@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "docs": "typedoc"
+  },
+  "devDependencies": {
+    "typedoc": "^0.25.13",
+    "typedoc-plugin-markdown": "^3.17.1",
+    "typescript": "^5.4.5"
+  }
+}
